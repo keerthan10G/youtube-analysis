@@ -1,5 +1,15 @@
-# Youtube Data analysis
+# ** Youtube Data analysis**
+---
+# Data sources:
 
-##project Overview
+youtube data : The primary data is used in this data analysis is the "File.csv" file, containing detailed information about sale made by the company.
 
-## Tools
+# Tools:
+
+* Python- data cleaning and Data analysis
+* Jupyter notebook- interpreter used to run python
+
+# References: 
+
+1.kaggle
+2.Stack over flow
